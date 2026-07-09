@@ -222,7 +222,7 @@ Cardia is a clinical **decision-support tool** and does not provide a definitive
 
 ## 👨‍💻 Contributors
 
-*   **Ahmed Hadaka Abdelmottaleb**: Team Lead, Define System Architecture, Backend Development, Machine Learning Model, Backend and Frontend Integration, Cloud Deployment, Task Distribution.
+*   **Ahmed Hadaka Abdelmottaleb**: Team Lead, Define System Architecture, Backend Development, Integration of Machine Learning Model, Backend and Frontend to deliver a full working software, Cloud Deployment, Task Distribution.
 *   **Ahmed Sajed El-Sayed** : Frontend Development.
 *   **Ragab Hussein Abdelhamid**: Database Development.
 *   **Mohamed Omar Sayed** [github](https://github.com/Mohamed19633): Frontend Development (React/TypeScript, Zod Validation, UI/UX), Technical Documentation & Reporting.
