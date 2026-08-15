@@ -12,7 +12,7 @@ Cardia automates the estimation of coronary heart disease risk from **13 standar
 - **Platform (Live):** https://hdps-frontend.vercel.app/
 - **Frontend Hosting (Vercel)**
 - **Backend, ML Model and Database Hosting (Railway)**
-- **System Architecture (Miro Board):** https://miro.com/app/live-embed/uXjVGIuIq08=/?embedMode=view_only_without_ui&moveToViewport=-7978%2C-3604%2C15199%2C6877&embedId=751690836475
+- **Wireframes (Miro Board):** https://miro.com/app/live-embed/uXjVGIuIq08=/?embedMode=view_only_without_ui&moveToViewport=-7978%2C-3604%2C15199%2C6877&embedId=751690836475
 
 ## 🩺 Overview
 
